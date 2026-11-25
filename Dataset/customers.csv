@@ -1,0 +1,21 @@
+customer_id,customer_name,email,city,registration_date
+1,Amit Sharma,amit@gmail.com,Nagpur,2024-01-10
+2,Rahul Verma,rahul@gmail.com,Mumbai,2024-01-15
+3,Priya Joshi,priya@gmail.com,Pune,2024-02-01
+4,Sneha Patil,sneha@gmail.com,Delhi,2024-02-05
+5,Karan Shah,karan@gmail.com,Nagpur,2024-02-10
+6,Neha Singh,neha@gmail.com,Hyderabad,2024-02-15
+7,Rohit Mehta,rohit@gmail.com,Bangalore,2024-03-01
+8,Pooja Jain,pooja@gmail.com,Chennai,2024-03-05
+9,Arjun Gupta,arjun@gmail.com,Nagpur,2024-03-10
+10,Anjali Roy,anjali@gmail.com,Kolkata,2024-03-12
+11,Vikas Kumar,vikas@gmail.com,Patna,2024-03-15
+12,Deepak Yadav,deepak@gmail.com,Lucknow,2024-03-20
+13,Riya Kapoor,riya@gmail.com,Mumbai,2024-04-01
+14,Mohit Jain,mohit@gmail.com,Indore,2024-04-05
+15,Sakshi Verma,sakshi@gmail.com,Pune,2024-04-10
+16,Nitin Sharma,nitin@gmail.com,Nagpur,2024-04-15
+17,Komal Patil,komal@gmail.com,Delhi,2024-05-01
+18,Manoj Singh,manoj@gmail.com,Bhopal,2024-05-05
+19,Tina Gupta,tina@gmail.com,Surat,2024-05-10
+20,Raj Malhotra,raj@gmail.com,Jaipur,2024-05-15
